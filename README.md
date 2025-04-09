@@ -12,7 +12,7 @@ A beautiful car listing app built with React (Next.js) and TailwindCSS.
 
 ## 🚀 Live Demo
 
-👉 [https://car-finder-app.vercel.app](https://car-finder-app.vercel.app)
+👉 [https://car-finder-app.vercel.app](https://car-finder-app-czuz.vercel.app/)
 
 ## 🛠️ Setup Instructions
 
